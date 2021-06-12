@@ -1,0 +1,16 @@
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+D:\Cursos\programacao\DIO\.net\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache

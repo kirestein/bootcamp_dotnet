@@ -1,0 +1,16 @@
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\Revisao.exe
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\Revisao.dll
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\bin\Debug\net5.0\Revisao.pdb
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.dll
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.pdb
+D:\Cursos\programacao\DIO\dotnet\revisao\revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache

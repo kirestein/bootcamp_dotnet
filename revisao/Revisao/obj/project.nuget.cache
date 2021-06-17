@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2TWAJrYZEjydK13+YD6yyGQzN8sNubSeA+OgxWl8ZkrEC2Omv78QIykOq9SepdK2NiMeYKCmITEzJFBokc7Ovg==",
+  "dgSpecHash": "xn2tqmDCwuFgI7ftomOMuuxws2tN+y8lu9sUD9JXgFYaPhxCv7t6X5i5JEYPpPk1LkbvOWsmfkxJ0jL6pJSnHw==",
   "success": true,
-  "projectFilePath": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\Revisao\\Revisao.csproj",
+  "projectFilePath": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\revisao\\Revisao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

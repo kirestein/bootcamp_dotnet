@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\Revisao\\Revisao.csproj": {}
+    "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\Revisao\\Revisao.csproj": {
+    "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\Revisao\\Revisao.csproj",
+        "projectPath": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\revisao\\Revisao.csproj",
         "packagesPath": "C:\\Users\\pride\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\Revisao\\obj\\",
+        "outputPath": "D:\\Cursos\\programacao\\DIO\\dotnet\\revisao\\revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pride\\AppData\\Roaming\\NuGet\\NuGet.Config",
